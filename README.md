@@ -12,7 +12,8 @@ This is a simple Flutter app that demonstrates a profile card UI. The main goal 
 ## Screenshot
 
 <p align="center">
-  <img src="./Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-04-25%20at%2001.25.21.png" width="300">
+  <img src="./Simulator Screen Shot - iPhone 14 Pro - 2023-04-25 at 01.44.25.png" width="300">
+
 </p>
 
 ## Usage
